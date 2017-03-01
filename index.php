@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Test Title</title>
+	<title>Test Title 1</title>
 </head>
 <body>
 	<form role="form" method="post" action="mail.php">
